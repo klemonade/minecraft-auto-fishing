@@ -7,7 +7,7 @@ def fish():
         if position:
             sleep(0.1)
             gui.rightClick()
-            sleep(0.5)
+            sleep(2)
             gui.rightClick()
             sleep(2)
 
